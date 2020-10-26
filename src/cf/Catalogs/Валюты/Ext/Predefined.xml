@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.10">
+	<Item id="5364e6dd-defd-4dc8-bc56-1a2d8e51c293">
+		<Name>Доллар</Name>
+		<Code>000000002</Code>
+		<Description>Доллар</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="965bff34-b8fa-40d7-815e-922e2f23627e">
+		<Name>Евро</Name>
+		<Code>000000003</Code>
+		<Description>Евро</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e648fadb-fa6d-49dc-99b6-c6f954449c07">
+		<Name>Йена</Name>
+		<Code>000000005</Code>
+		<Description>Йена</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="044522cf-2637-4a95-8f9a-9f2685e26abd">
+		<Name>Рубль</Name>
+		<Code>000000001</Code>
+		<Description>Рубль</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="0c90707e-7787-4a47-b31c-92f3c06a48d5">
+		<Name>Юань</Name>
+		<Code>000000004</Code>
+		<Description>Юань</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
