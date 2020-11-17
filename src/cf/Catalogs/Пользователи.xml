@@ -60,7 +60,7 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Catalog.Пользователи.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
@@ -89,18 +89,18 @@
 		<ChildObjects>
 			<Attribute uuid="c21db9a2-becf-4705-ab1c-d35d73a99351">
 				<Properties>
-					<Name>Идентификатор</Name>
+					<Name>Роль</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Идентификатор</v8:content>
+							<v8:content>Роль</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
-							<v8:Length>10</v8:Length>
+							<v8:Length>25</v8:Length>
 							<v8:AllowedLength>Variable</v8:AllowedLength>
 						</v8:StringQualifiers>
 					</Type>
@@ -131,6 +131,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Form>ФормаЭлемента</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
